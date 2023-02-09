@@ -37,4 +37,3 @@ My Projects:
 * 🌱 I’m currently learning **Machine Learning**
 * 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.com/shwetsagashe)
 * 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
-* 
